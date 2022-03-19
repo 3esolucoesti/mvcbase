@@ -9,6 +9,7 @@ yarn-error.log*
 .htaccess
 Anotações.txt
 environment.php
+config.php
 
 .idea
 #/vendor
