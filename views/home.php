@@ -28,7 +28,7 @@
     margin-bottom: 5px;
     border: 1px solid rgba(255,255,255,.2);
     /* margin-right: 15px; */
-    height: 350px;
+    height: 250px;
   }
   .boxdepoimentos iframe{
     width: 100%;
@@ -37,7 +37,7 @@
 
   @media all and (min-width: 640px){
     .boxdepoimentos{
-      max-width: 300px;
+      max-width: 350px;
     }
     .boxdepoimentos{
       margin-right: 5px; 
@@ -50,15 +50,17 @@
   <div class="controllogo" >
     <img src="<?php echo BASE_URL; ?>/assets/images/TEMPLATE/LogoDrConexoesVerticalFoto.png" alt="">
   </div>
-  <div class="depoimentos" >
-    <div class="boxdepoimentos" ></div>
-    <div class="boxdepoimentos" ></div>
-    <div class="boxdepoimentos" ></div>
-    <div class="boxdepoimentos" ></div>
-    <div class="boxdepoimentos" ></div>
-    <div class="boxdepoimentos" ></div>
-    <div class="boxdepoimentos" ></div>
-  </div>
+</div>
+
+<div class="depoimentos" >
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/B8jqtyWDsEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/ZyMSY2tcQBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/T5Q1qwAfkAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/peruGi-V2ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/z-ZJkXhNvjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/ibhTxLkJpnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/nZ4NKvDpvQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/pjZ6ueiy9Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 <br>
