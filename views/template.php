@@ -19,7 +19,7 @@
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>/assets/js/jquery-2.2.4.min.js"></script>
     
 	</head>
-<body>
+<body  style="background:#000;" >
 
 	<div class="container-fluid">
 
