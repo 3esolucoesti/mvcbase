@@ -79,3 +79,5 @@
 
 
 <a href="https://app.drconexoes.com.br" target="_blank" class="btn btn-danger" style="position:fixed;z-index:9;padding:25px;left:15px;bottom: 15px;" > <i class="fa fa-user" style="font-size: 35px;" ></i> <br> Login</a>
+
+<a href="https://www.instagram.com/diegoreis.1" target="_blank" class="" style="position:fixed;z-index:9;padding:25px;right:10px;bottom: 10px;" > <img src="<?php echo BASE_URL; ?>/assets/images/instagram.jpg" border="0" style="height:80px;width:80px;border-radius: 50%;" /> <br> </a>
