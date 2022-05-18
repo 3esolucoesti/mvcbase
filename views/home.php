@@ -48,7 +48,7 @@
 
 <div class="container-fluid" >
   <div class="controllogo" >
-    <img src="<?php echo BASE_URL; ?>/assets/images/TEMPLATE/LogoDrConexoesVerticalFoto.png" alt="">
+    <img src="<?php echo BASE_URL; ?>/assets/images/TEMPLATE/LogoDrConexoesVerticalFoto.png" alt=""> 
   </div>
 </div>
 
