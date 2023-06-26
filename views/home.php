@@ -48,21 +48,22 @@
 
 <div class="container-fluid" >
   <div class="controllogo" >
-    <img src="<?php echo BASE_URL; ?>/assets/images/TEMPLATE/LogoDrConexoesVerticalFoto.png" alt=""> 
+    <img src="<?php echo BASE_URL; ?>/assets/images/TEMPLATE/capasite.jpg" alt=""> 
   </div>
 </div>
+<br>
 
 <div class="depoimentos" >
-  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/B8jqtyWDsEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <!-- <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/B8jqtyWDsEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
   <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/ZyMSY2tcQBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/T5Q1qwAfkAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/peruGi-V2ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/z-ZJkXhNvjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <!-- <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/z-ZJkXhNvjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
   <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/ibhTxLkJpnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/nZ4NKvDpvQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/pjZ6ueiy9Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/_PKLybvTeDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>  
-    
+  <div class="boxdepoimentos" ><iframe src="https://www.youtube.com/embed/4jJJmApqYMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 <br>
@@ -70,6 +71,7 @@
 <br>
 <br>
 <br>
+
 <center>
   <div class="footer">
       <div class="copyright" style="color:white;" >
@@ -81,6 +83,14 @@
 </center>
 
 
-<a href="https://app.drconexoes.com.br" target="_blank" class="btn btn-danger" style="position:fixed;z-index:9;padding:25px;left:15px;bottom: 15px;" > <i class="fa fa-user" style="font-size: 35px;" ></i> <br> Login</a>
+<!-- <a href="https://app.drconexoes.com.br" target="_blank" class="btn btn-danger" style="position:fixed;z-index:9;padding:25px;left:15px;bottom: 15px;" > <i class="fa fa-user" style="font-size: 35px;" ></i> <br> Login</a> -->
 
-<a href="https://www.instagram.com/diegoreis.1" target="_blank" class="" style="position:fixed;z-index:9;padding:25px;right:10px;bottom: 10px;" > <img src="<?php echo BASE_URL; ?>/assets/images/instagram.jpg" border="0" style="height:80px;width:80px;border-radius: 50%;" /> <br> </a>
+<a href="https://www.instagram.com/diegoreis.1" target="_blank" class="" style="position:fixed;z-index:9;padding:25px;left:10px;bottom: 10px;" > <img src="<?php echo BASE_URL; ?>/assets/images/instagram.jpg" border="0" style="height:80px;width:80px;border-radius: 50%;" /> <br> </a>
+
+<a href="https://www.youtube.com/@drconexoes" target="_blank" class="" style="position:fixed;z-index:9;padding:25px;left:100px;bottom: 10px;" > <img src="<?php echo BASE_URL; ?>/assets/images/1656501968youtube-icon-png.png" border="0" style="height:80px;width:80px;border-radius: 50%;" /> <br> </a>
+
+
+<a href="https://www.tiktok.com/@diegoreis.1?_t=8cfLEsj4n9Z&_r=1" target="_blank" class="" style="position:fixed;z-index:9;padding:25px;left:190px;bottom: 10px;" > <img src="<?php echo BASE_URL; ?>/assets/images/tiktok-logo-1F4A5DCD45-seeklogo.com.png" border="0" style="height:80px;width:80px;border-radius: 50%;" /> <br> </a>
+
+
+<a href="https://wa.me/message/UB476FEOTDOTG1" target="_blank" class="" style="position:fixed;z-index:9;padding:25px;left:280px;bottom: 10px;" > <img src="<?php echo BASE_URL; ?>/assets/images/whatsapp-logo-PNG-Transparent.webp" border="0" style="height:80px;width:80px;border-radius: 10%;" /> <br> </a>
